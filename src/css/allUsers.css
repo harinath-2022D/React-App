@@ -1,0 +1,40 @@
+.pagination {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10%;
+}
+
+.outer-container {
+  background-color: aliceblue;
+}
+.table-container {
+  height: 90%;
+  .table-display {
+    background-color: antiquewhite;
+    margin: 1%;
+    box-shadow: 0px 0px 10px black;
+  }
+}
+
+#update-icon {
+  background-color: green;
+  color: whitesmoke;
+}
+
+#delete-icon {
+  background-color: red;
+  color: whitesmoke;
+}
+
+#update-icon:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#delete-icon:hover {
+    background-color: white;
+    color: black;
+  }

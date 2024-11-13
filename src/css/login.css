@@ -1,0 +1,9 @@
+#home-scale{
+    width: 30vw;
+    height:50vh;
+    background-image: url("https://www.zettamine.com/wp-content/uploads/2023/10/Home-scaled.webp");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* border-radius: 1%; */
+    /* padding: 5%; */
+}
